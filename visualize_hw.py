@@ -216,7 +216,7 @@ def visualize_HW(sequence, fn_hw='hw.png'):
     ax.set_xlim(-15,15)
     ax.set_ylim(-15,15)
 
-    plt.savefig(fn_hw)
+    plt.savefig(fn_hw, transparent=True)
     return
 
 
