@@ -3,7 +3,7 @@
 ======================================================
 
 :Authors:       Katrin Reichel
-:Company:       `ProteinQure Inc. <https://wwwproteinqure.com>`
+:Company:       `ProteinQure Inc. <https://www.proteinqure.com>`
 :Year:          2019
 :Licence:       MIT License
 :Copyright:     © 2019 Katrin Reichel
