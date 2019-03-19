@@ -14,7 +14,7 @@ Description
 The provided python script generates a helical wheel based on an input sequence. For a random sequence it looks like this:
 
 .. image::  /img/hw_example.png
-
+    :height: 100px
 
 Dependencies and Software Requirements
 ======================================
