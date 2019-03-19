@@ -29,7 +29,7 @@ Usage
 To generate a helical wheel with an input sequence, simply do the following::
 
       python hw_visualization.py \
-         -s ACDEFGHIKLMNPQRSTVWY \
+         -s ACDEFGHIKLMNPQRSTVWYACDE \
          -o hw_output.png
 
 Help
