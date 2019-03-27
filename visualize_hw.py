@@ -6,13 +6,7 @@
 #
 # Distributed under terms of the MIT license.
 
-"""
-This script contains functions, which can be used to evaluate
-sequences.
 
-Example usage:
-import peptide_evaluation as pe
-"""
 
 import numpy as np
 import argparse
@@ -222,7 +216,7 @@ def visualize_HW(sequence, fn_hw='hw.png'):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=
-            "Generate a ddg_monomer residue file")
+            "Generate helical wheel based on provided sequence.")
     parser.add_argument("-s", dest="sequence", type=str,
                         required=True,
                         help="Sequence to be visualized in a HW.")
